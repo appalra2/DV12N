@@ -87,13 +87,13 @@
   <attribute name="SQL" type="STRING">SELECT 
     *
 from /shared/examples/ViewOrder
-order by 1</attribute>
+order by 1,2</attribute>
   <attribute name="creationDate" type="LONG">1505908025571</attribute>
   <attribute name="creatorUserDomain" type="STRING">composite</attribute>
   <attribute name="creatorUserId" type="INTEGER">301</attribute>
   <attribute name="creatorUserName" type="STRING">adm_appalra2</attribute>
   <attribute name="explicitly.designed" type="BOOLEAN">false</attribute>
-  <attribute name="lastModifiedDate" type="LONG">1505983961208</attribute>
+  <attribute name="lastModifiedDate" type="LONG">1505984237158</attribute>
   <attribute name="lastModifiedUserDomain" type="STRING">composite</attribute>
   <attribute name="lastModifiedUserId" type="INTEGER">301</attribute>
   <attribute name="lastModifiedUserName" type="STRING">adm_appalra2</attribute>
